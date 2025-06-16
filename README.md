@@ -19,7 +19,7 @@ In order to set this up ensure you have access to
   - Note that this is only tested up to a 4x2 size
 
 ### Automatic Setup
-Simply run `wget run https://raw.githubusercontent.com/CanadianBaconBoi/YouCubeTV/master/setup.lua` and follow the instructions of the installer
+Simply run `wget run https://raw.githubusercontent.com/GameNight1436/YouCubeTV/refs/heads/master/setup.lua` and follow the instructions of the installer
 
 ### Manual Setup
 #### Television Setup
